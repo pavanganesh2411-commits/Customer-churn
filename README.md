@@ -23,3 +23,5 @@ To identify key factors contributing to customer churn and provide actionable in
 - Launch re-engagement campaigns such as reminders, offers, and digital incentives to activate the **51% inactive customers**.
 
 - Enhance and promote **Product 1** features with bundled services and loyalty rewards to increase customer satisfaction and retention.
+
+- 
